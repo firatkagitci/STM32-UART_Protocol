@@ -1,0 +1,15 @@
+# Build artifacts
+build/
+*.o
+*.elf
+*.bin
+*.hex
+
+# IDE files
+*.project
+*.cproject
+*.launch
+.settings/
+
+# Misc
+*.log
