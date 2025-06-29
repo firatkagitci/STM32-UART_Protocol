@@ -1,0 +1,1 @@
+Please download the STM32CubeF4 HAL drivers from STMicroelectronics and place them in this folder.
